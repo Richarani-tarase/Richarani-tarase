@@ -21,7 +21,10 @@ Hello there! I'm **Richarani Tarase**, a tech enthusiast and 3rd-year B.Tech stu
 
 ---
 
-### 🏆 GitHub Highlights:
+### GitHub Highlights:
+
+### 📊 My GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Richarani-tarase&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Richarani-tarase&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Richarani-tarase&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
